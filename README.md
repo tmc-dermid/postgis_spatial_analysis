@@ -15,9 +15,9 @@ The goal of this project was to practice geospatial data analysis using SQL, inc
 ## Key Features
 
 - Spatial data querying using PostGIS functions
-- Geometry operations (e.g. ST_Intersects, ST_Area)
+- Geometry operations (e.g. ST_Intersects, ST_Area, ST_DWithin)
 - Spatial joins between geographic datasets
-- Filtering and aggregating data using geographic conditions
+- Filtering data using geographic conditions
 
 ## Example Queries
 
@@ -31,4 +31,3 @@ See the `/sql` folder for full examples, including:
 - Advanced SQL querying
 - Geospatial data analysis
 - PostGIS functions usage
-- Relational database design concepts
